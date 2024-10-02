@@ -1,0 +1,20 @@
+<Registration form html>
+<html>
+<head>
+<title> Registration form</title>
+</head>
+<body>
+<h1>Registration form</h1>
+Enter your Name<input type=placeholder="1234-56-789"><br><br>
+Enter your Email<input type=placeholder><br><br>
+Enter your Password<input type=placeholder><br><br>
+Enter your state<input type=placeholder><br><br>
+Enter your Gender<input type=placeholder><br><br>
+add photo<input type="file"><br><br>
+<input type="radio" name="check agreement">yes
+<input type="radio" name="check agreement">no
+<input type="submit"><br><br>
+</form>
+</body>
+</html>
+
